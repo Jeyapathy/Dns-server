@@ -1,4 +1,4 @@
-# Dns-server# 
+# Dns-server #
 **Build Your Own DNS Server** 
 
 This project is a minimal custom implementation of a DNS server using Python and UDP sockets. It demonstrates how DNS queries work at a low level — from parsing requests to responding with DNS records.
